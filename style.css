@@ -1,0 +1,38 @@
+.margin
+.border
+.padding
+body {
+    background:yellow;
+
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+
+}
+h1 {
+    color: yellow;
+    background-color:black;
+    font: Tahoma 2em;
+}
+p {color: white;font: Tahoma 2em;}
+h2 {color: blue; background-color:yellow; font: Tahoma 2em;}
+br {color:red;line-height : 150 % ;font: Tahoma 2em;}
+
+
+.fon {
+    
+
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  
+}
+input {
+    color:yellow;
+    background-color:black;
+    font: Tahoma 2em;
+}
